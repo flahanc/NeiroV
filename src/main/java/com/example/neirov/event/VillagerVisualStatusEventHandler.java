@@ -12,6 +12,7 @@ import net.minecraft.world.level.block.Blocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.phys.AABB;
 import java.util.List;
+import java.util.UUID;
 
 @Mod.EventBusSubscriber(modid = "neirov")
 public class VillagerVisualStatusEventHandler {

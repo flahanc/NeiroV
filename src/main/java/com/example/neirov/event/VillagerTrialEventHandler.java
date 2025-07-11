@@ -12,6 +12,7 @@ import net.minecraft.world.phys.AABB;
 import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Random;
+import java.util.UUID;
 
 @Mod.EventBusSubscriber(modid = "neirov")
 public class VillagerTrialEventHandler {
